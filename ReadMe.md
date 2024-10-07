@@ -137,45 +137,45 @@ def backtest_zscore_strategy(stock1_prices, stock2_prices, zscore_residuals):
 ```
 
 ## Trades
-![alt text](image.png)
+![alt text](/Images/image.png)
 
-![alt text](image-1.png)
+![alt text](/Images/image-1.png)
 
-![alt text](image-2.png)
+![alt text](/Images/image-2.png)
 
-![alt text](image-3.png)
+![alt text](/Images/image-3.png)
 
-![alt text](image-4.png)
+![alt text](/Images/image-4.png)
 
-![alt text](image-5.png)
+![alt text](/Images/image-5.png)
 
-![alt text](image-6.png)
+![alt text](/Images/image-6.png)
 
-![alt text](image-7.png)
+![alt text](/Images/image-7.png)
 
-![alt text](image-8.png)
+![alt text](/Images/image-8.png)
 
-![alt text](image-9.png)
+![alt text](/Images/image-9.png)
 
-![alt text](image-10.png)
+![alt text](/Images/image-10.png)
 
-![alt text](image-11.png)
+![alt text](/Images/image-11.png)
 
-![alt text](image-12.png)
+![alt text](/Images/image-12.png)
 
-![alt text](image-13.png)
+![alt text](/Images/image-13.png)
 
-![alt text](image-14.png)
+![alt text](/Images/image-14.png)
 
-![alt text](image-15.png)
+![alt text](/Images/image-15.png)
 
-![alt text](image-16.png)
+![alt text](/Images/image-16.png)
 
-![alt text](image-17.png)
+![alt text](/Images/image-17.png)
 
-![alt text](image-18.png)
+![alt text](/Images/image-18.png)
 
-![alt text](image-19.png)
+![alt text](/Images/image-19.png)
 
 ## Results
 ### Total Return Over 2 Years: 16.5%
